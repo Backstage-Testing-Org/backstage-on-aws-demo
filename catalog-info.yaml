@@ -4,9 +4,9 @@ metadata:
   name: backstage-on-aws
   description: 'CDK stack project to create infra to run backstage app'
   annotations:
-    github.com/project-slug: rbogle/backstage-on-aws
+    github.com/project-slug: Backstage-Testing-Org/paperpal-repo
     
 spec:
   type: service
   lifecycle: experimental
-  owner: group:default/devops
+  owner: "group:default/devops"
